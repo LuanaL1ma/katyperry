@@ -1,0 +1,26 @@
+body{
+    background: url('../images/bg7.jpg') no-repeat center center;
+    /* Faz a imagem caber na tela */
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    height: 100%;
+    
+}
+.txt{
+    text-align: center;
+}
+.picture{
+    width: 30%;
+}
+.txtalbns{
+    text-align: left;
+}
+.link{
+    color: rgb(61, 3, 94);
+    text-decoration: none;
+    font-size: 17px;
+}
+.link:hover{
+    color: teal;
+    font-size: 20px;
+}
